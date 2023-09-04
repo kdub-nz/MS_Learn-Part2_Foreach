@@ -12,3 +12,4 @@ C:\Users\KDUB\Desktop\DT_DevProjects\DT_WIN\MS_Learn\CsharpProjects\Part2_Foreac
 C:\Users\KDUB\Desktop\DT_DevProjects\DT_WIN\MS_Learn\CsharpProjects\Part2_Foreach\TestProject\obj\Debug\net8.0\TestProject.pdb
 C:\Users\KDUB\Desktop\DT_DevProjects\DT_WIN\MS_Learn\CsharpProjects\Part2_Foreach\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
 C:\Users\KDUB\Desktop\DT_DevProjects\DT_WIN\MS_Learn\CsharpProjects\Part2_Foreach\TestProject\obj\Debug\net8.0\ref\TestProject.dll
+C:\Users\KDUB\Desktop\DT_DevProjects\DT_WIN\MS_Learn\CsharpProjects\Part2_Foreach\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
